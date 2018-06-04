@@ -1,0 +1,3 @@
+# 8\. Expectativas
+
+Establecer un “menú” u “orden del día” para que los estudiantes conozcan los objetivos de aprendizaje, ir focalizándose en qué aspectos debe pensar y conocer qué espera…
