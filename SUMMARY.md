@@ -4,7 +4,7 @@
 
 ____
 ### ALFABETIZAMULTIBLES: Educación ayer y hoy
-* [Educación ayer y hoy](index.md)
+* [Educación ayer y hoy](index22.md)
 	* [Introducción](introduccin.md)
 	* [Era industrial](era_industrial.md)
 	* [Era del conocimiento](era_del_conocimiento.md)
@@ -22,6 +22,8 @@ ____
 		* [Educar en valores](educar_en_valores.md)
 	* [Alfabetizar hoy](alfabetizar_hoy.md)
 	* [Fuentes](fuentes.md)
+
+
 ### ALFABETIZAMULTIBLES: Alfabetización audiovisual. Lenguaje visual básico
 * [Alfabetización audiovisual: lenguaje visual básico](index0.md)
 	* [Introducción](introduccin1.md)
@@ -44,6 +46,8 @@ ____
 		* [Filtros](filtros.md)
 	* [Videoteca](videoteca.md)
 	* [Fuentes](fuentes2.md)
+
+
 ### ALFABETIZAMULTIBLES: Cultura de Pensamiento
 * [Cultura de Pensamiento. Aprender y enseñar a pensar](index3.md)
 	* [Introducción](introduccin4.md)
@@ -68,6 +72,8 @@ ____
 	* [Infusión: enseñar a pensar con contenidos curriculares](infusin_ensear_a_pensar_con_contenidos_curriculares.md)
 	* [Metacognición](metacognicin.md)
 	* [Fuentes](fuentes5.md)
+
+
 ### ALFABETIZAMULTIBLES: Destrezas de Pensamiento. 
 * [Destreza de pensamiento](index6.md)
 	* [Introducción a las Destrezas de Pensamiento](introduccin_a_las_destrezas_de_pensamiento.md)
@@ -80,6 +86,8 @@ ____
 		* [Organizador gráfico](organizador_grfico2.md)
 	* [Rutina: Veo-Pienso-Me pregunto](rutina_veopiensome_pregunto.md)
 		* [Organizador gráfico](organizador_grfico3.md)
+
+
 ### ALFABETIZAMULTIBLES: Leer es...
 * [Leer es: compartir, conectar y elegir](index7.md)
 	* [Elegir](elegir.md)
@@ -88,6 +96,8 @@ ____
 	* [Comunicación lingüística](comunicacin_lingstica.md)
 	* [Recomendaciones de lectura en diversos formatos](recomendaciones_de_lectura_en_diversos_formatos.md)
 	* [Experiencias sobre lectura, literatura o investigación](experiencias_sobre_lectura_literatura_o_investigacin.md)
+
+
 ### ALFABETIZAMULTIBLES: Lenguaje sonoro
 * [Lenguaje sonoro](index8.md)
 	* [Introducción](introduccin9.md)
@@ -104,6 +114,8 @@ ____
 		* [El silencio](el_silencio.md)
 		* [Mapa conceptual](mapa_conceptual.md)
 	* [Fuentes](fuentes10.md)
+
+
 ### ALFABETIZAMULTIBLES: Lenguaje radiofónico
 * [Lenguaje radiofónico](index11.md)
 	* [El lenguaje radiofónico](el_lenguaje_radiofnico.md)
@@ -116,6 +128,8 @@ ____
 		* [Generos y formatos](generos_y_formatos.md)
 		* [Género argumental](gnero_argumental.md)
 	* [Fuentes](fuentes13.md)
+
+
 ### ALFABETIZAMULTIBLES: Podcast
 * [Podcast](index14.md)
 	* [¿Qué son los podcast?](qu_son_los_podcast.md)
@@ -132,6 +146,8 @@ ____
 		* [Soundcloud](soundcloud.md)
 		* [Infografía. Souncloud](infografa_souncloud.md)
 	* [Fuentes](fuentes15.md)
+
+
 ### ALFABETIZAMULTIBLES: Lenguaje audiovisual
 * [Lenguaje audiovisual](index16.md)
 	* [La imagen en movimiento](la_imagen_en_movimiento.md)
@@ -154,6 +170,8 @@ ____
 		* [Característica Instrumental](caracterstica_instrumental.md)
 		* [Color y timbre](color_y_timbre.md)
 	* [Fuentes](fuentes17.md)
+
+
 ### ALFABETIZAMULTIBLES: El lenguaje publicitario
 * [Lenguaje publicitario](index18.md)
 	* [Introducción](introduccin19.md)
