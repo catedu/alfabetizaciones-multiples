@@ -1,7 +1,7 @@
 # Introducción
 
-## **Introducción   
-**
+## Introducción   
+
 
 Las épocas de transición fueron complicadas en todos los ciclos de la Humanidad. Podemos identificar diferentes periodos de cambios transcendentales a lo largo de la historia de la civilización:
 
