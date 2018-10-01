@@ -5,8 +5,4 @@ Las escuelas tienen que enseñar valores, moral y ética. Teniendo en cuenta la 
 Las escuelas tienen que desarrollar la empatía en los estudiantes. El nuevo mundo es más diverso y cosmopolita. El individuo de hoy debe interactuar con personas de todo el mundo, con diferentes orígenes, religiones, creencias, perspectivas y puntos de vista. La tolerancia y la empatía será la clave para construir relaciones comerciales y personales. En un mundo de conectividad y tecnología, la empatía del ser humano hace la diferencia.
 
 
-![](img/4945970395_e0d6aee799_z.jpg)
-
-
-
-Imagen: [![Licencia de Creative Commons](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/) Esta foto cuyo autor es [https://goo.gl/2DomKf](https://goo.gl/2DomKf) está bajo una [licencia de Reconocimiento-NoComercial 4.0 Internacional de Creative Commons](http://creativecommons.org/licenses/by-nc/4.0/).
+[![Licencia de Creative Commons 40.by-nc](img/4945970395_e0d6aee799_z.jpg)](https://goo.gl/2DomKf)

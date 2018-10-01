@@ -11,22 +11,6 @@ Esto convierte la profundidad de campo en **un arma infalible que juega a nuest
 
 ![Profundidad](img/Profundidad_de_campo.jpg "Profundidad")
 
-
-Imágenes: 
-
-
-1.  [![Licencia de Creative Commons](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/) Esta obra cuyo autor es [https://goo.gl/RExTqt](https://goo.gl/RExTqt) está bajo una [licencia de Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional de Creative Commons](http://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-
-2.  [![Licencia de Creative Commons](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/) Este¡a obra cuyo autor es [https://goo.gl/qaYAs0](https://goo.gl/qaYAs0) está bajo una [licencia de Reconocimiento-NoComercial 4.0 Internacional de Creative Commons](http://creativecommons.org/licenses/by-nc/4.0/).
-
-
-3.  [![Licencia de Creative Commons](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/) Esta obra cuyo autor es [https://goo.gl/vUZCN7](https://goo.gl/vUZCN7) está bajo una [licencia de Reconocimiento 4.0 Internacional de Creative Commons](http://creativecommons.org/licenses/by/4.0/).
-
-
-4.  [![Licencia de Creative Commons](https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/) Esta obra cuyo autor es [https://goo.gl/5F0bY8](https://goo.gl/5F0bY8) está bajo una [licencia de Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional de Creative Commons](http://creativecommons.org/licenses/by-nc-nd/4.0/).
-
-
 Fuentes: 
 
 *   John Hedgecoe, (2003, Enero 25), Bases de la fotografía; EDUTEKA, Edición 16, Descargado: de [http://www.eduteka.org/ComposicionFotos.ph](http://www.eduteka.org/ComposicionFotos.ph)[](http://www.eduteka.org/ComposicionFotos.php)

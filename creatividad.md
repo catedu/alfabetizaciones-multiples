@@ -4,4 +4,5 @@ Las escuelas tienen que fomentar la creatividad. Carnevale, Gainer y Meltzer, pr
 
 El desarrollo de la creatividad es un componente esencial de la educación en el actual mundo cambiante y desafiante, y se puede lograr a través de diversas metodologías.
 
-\[Las escuelas matan la creatividad. Url: [https://www.youtube.com/watch?v=-np-1YQI1xY](https://www.youtube.com/watch?v=-np-1YQI1xY)\]
+{% youtube %}https://youtu.be/-np-1YQI1xY{% endyoutube %}
+

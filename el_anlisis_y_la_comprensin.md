@@ -5,7 +5,9 @@ La construcción de una mirada crítica apuntada en el punto anterior sólo es p
 Cualquier mensaje de un medio de comunicación se puede llegar a analizar para descifrar todo lo que lleva consigo, ya sea explícita o implícitamente. Pero siempre se obtendrá un mayor resultado si se siguen unas pautas de análisis. Este patrón debe variar, lógicamente, según sea la categoría del mensaje a analizar. Así, se planteará de forma diferente la labor si se trata de analizar un anuncio, una noticia, un programa de entretenimiento.
 
 
-Entre las muchas propuestas didácticas existentes, aquí destacamos las que propone el Grupo Spectus (2004) para analizar críticamente y generar una comprensión crítica:![Análisis y comprensión](img/El_analisis_y_la_comprension.jpg "Análisis y comprensión")
+Entre las muchas propuestas didácticas existentes, aquí destacamos las que propone el Grupo Spectus (2004) para analizar críticamente y generar una comprensión crítica:
+
+[![Análisis y comprensión. Licencia de Creative Commons 40.by-nc](img/El_analisis_y_la_comprension.jpg "Análisis y comprensión")](https://goo.gl/Mwxvbo)
 
 
 *   Cómo los medios lanzan y potencian el conocimiento de un determinado producto.
@@ -15,5 +17,3 @@ Entre las muchas propuestas didácticas existentes, aquí destacamos las que pro
 
 La comprensión de los mensajes mediáticos y todo lo que conllevan es necesaria para construir una ciudadanía activa y crítica en todos los ámbitos sociales, ya sean políticos, económicos, culturales o de cualquier otra índole. Después de un análisis en profundidad, en una democracia que se precie y evolucione es imposible tener una sociedad adormecida que se cree, a pies juntillas, todo lo que oye, lee o ve en los medios de comunicación. 
 
-
-Imagen:  [![Licencia de Creative Commons](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/) Esta foto, cuyo autor es [https://goo.gl/Mwxvbo](https://goo.gl/Mwxvbo) está bajo una [licencia de Reconocimiento-NoComercial 4.0 Internacional de Creative Commons](http://creativecommons.org/licenses/by-nc/4.0/).

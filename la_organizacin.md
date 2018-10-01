@@ -7,9 +7,7 @@ La mirada escrutadora del ojo es algo que el fotógrafo debe imponer a la imagen
 La fuerza de una imagen formal radica frecuentemente en la relación de los elementos que la componen con las líneas imaginarias que la dividen horizontal y verticalmente, en tres partes iguales. Aquéllas con primer plano, distancias medias y fondo claramente discernible resultan especialmente eficaces si estas áreas forman tercios. La intersección entre dos tercios horizontal y vertical constituye una buena localización para el centro de interés. Desde aquí la vista puede recorrer toda la imagen siguiendo líneas y curvas o recorriendo centros secundarios de atención.
 
 
-![Org](img/Organizacion.jpg "Org")
+[![Org](img/Organizacion.jpg "Org")]((http://www.eduteka.org/ComposicionFotos.php))
 
 
 Los ojos de la chica constituyen el centro de atención y también gracias a las líneas de la roca y el gorro de su madre (Foto: John Hedgecoe)
-
-Fuente: John Hedgecoe, (2003, Enero 25), Bases de la fotografía; EDUTEKA, Edición 16, Descargado: de [http://www.eduteka.org/ComposicionFotos.ph](http://www.eduteka.org/ComposicionFotos.php)

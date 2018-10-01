@@ -3,7 +3,9 @@
 En la década de los ochenta, entramos en la “sociedad de la comunicación”: La explosión de lo audiovisual, la telemática e informática, la globalización de la información, los intercambios de información más complejos y rápidos conducen a profundas transformaciones donde la comunicación y el poder comunicativo de la imagen se convierten en un factor fundamental. En la sociedad mediática en la que vivimos, la información asimilada más rápidamente es aquélla que se transmite por medio de un lenguaje visual o audiovisual. La imagen se ha convertido en un bastión de la sociedad contemporánea.
 
 
-Hoy podemos hablar del lenguaje de las imágenes, de una semiótica de las imágenes, de sus mensajes, de su interpretación, de la imagen como información primordial y no secundaria. ![Introducción](img/Introduccion.jpg "Introducción")
+Hoy podemos hablar del lenguaje de las imágenes, de una semiótica de las imágenes, de sus mensajes, de su interpretación, de la imagen como información primordial y no secundaria. 
+
+[![Introducción. Licencia de Creative Commons 40.by-nc-sa](img/Introduccion02.jpg "Introducción")](https://goo.gl/WHmRV0)
 
 
 *   ¿Qué es educar la mirada?
@@ -18,5 +20,3 @@ En un mundo cada vez más mediatizado por los medios de comunicación y nuevas t
 
 Como dice Len Masterman,“la Educación Audiovisual es uno de los pocos instrumentos que profesorado y alumnado tienen para empezar a desafiar la gran desigualdad de conocimiento y poder que existe entre los que fabrican la información por su propio interés y los que la consumen inocentemente como si fueran noticias o diversión” (1993).
 
-
-Imagen:  [![Licencia de Creative Commons](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/) Esta foto cuyo autor es [https://goo.gl/WHmRV0](https://goo.gl/WHmRV0) está bajo una [licencia de Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional de Creative Commons](http://creativecommons.org/licenses/by-nc-sa/4.0/).

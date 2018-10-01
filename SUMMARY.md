@@ -2,7 +2,8 @@
 
 * [Introducción](README.md)
 
-## ALFABETIZACIONES MÚLTIPLES: Educación ayer y hoy
+<!--
+## 1. Educación ayer y hoy
 
 * [Educación ayer y hoy](index22.md)
   * [Introducción](introduccin.md)
@@ -23,7 +24,7 @@
   * [Alfabetizar hoy](alfabetizar_hoy.md)
   * [Fuentes](fuentes.md)
 
-## ALFABETIZAMULTIBLES: Alfabetización audiovisual. Lenguaje visual básico
+## 2. Alfabetización audiovisual. Lenguaje visual básico
 
 * [Alfabetización audiovisual: lenguaje visual básico](index0.md)
   * [Introducción](introduccin1.md)
@@ -46,8 +47,9 @@
     * [Filtros](filtros.md)
   * [Videoteca](videoteca.md)
   * [Fuentes](fuentes2.md)
+-->
 
-## ALFABETIZAMULTIBLES: Cultura de Pensamiento
+## 3. Cultura de Pensamiento
 
 * [Cultura de Pensamiento. Aprender y enseñar a pensar](index3.md)
   * [Introducción](introduccin4.md)
@@ -73,6 +75,7 @@
   * [Metacognición](metacognicin.md)
   * [Fuentes](fuentes5.md)
 
+<!--
 ## ALFABETIZAMULTIBLES: Destrezas de Pensamiento.
 
 * [Destreza de pensamiento](index6.md)
@@ -203,7 +206,7 @@
   * [La publicidad subliminal](la_publicidad_subliminal.md)
   * [Utilización de la mujer en la publicidad](utilizacin_de_la_mujer_en_la_publicidad.md)
   * [Fuentes](fuentes20.md)
-
+-->
 ---
 
 * [Créditos](crditos-buenos.md)

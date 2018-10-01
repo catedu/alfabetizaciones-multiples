@@ -6,4 +6,5 @@ Como consecuencia de las transformaciones económicas, de los cambios en los mod
 
 Se requiere un nuevo paradigma educativo que pueda acompañar los nuevos paradigmas que surgen en las demás áreas de la sociedad. Otro paradigma que, superando las restricciones del actual, sea capaz tanto de saldar las deudas del pasado cuanto de dar respuestas más adecuadas a las necesidades del futuro.
 
-\[Ken Robinson: Cambio de paradigmas en la educación. Url: [https://www.youtube.com/watch?v=WbOtm0zkxLQ](https://www.youtube.com/watch?v=WbOtm0zkxLQ)\]
+{% youtube %}https://www.youtube.com/watch?v=WbOtm0zkxLQ{% endyoutube %}
+
