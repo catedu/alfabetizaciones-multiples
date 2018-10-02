@@ -1,13 +1,11 @@
 # 3\. Publicar
 
-### **3\. Publicar**
-
 Necesitamos subir el archivo a un servidor de Internet para que lo puedan escuchar nuestros oyentes y mediante el uso el protocolo HTTP puedan acceder a él (es decir, que se pueda escuchar o descargar como si fuera una página web o una imagen). 
 
 Utilizaremos un servicio de alojamiento de podcasts (los tenéis más abajo) que hacen todo el proceso de forma sencilla y automática dándote una dirección del archivo mp3 y un RSS válido. 
 
 
-![podcast](img/Podcast2.jpg "podcast")
+[![podcast. Licencia Creative Commons 4.0 by-sa](img/Podcast2.jpg "podcast")](https://goo.gl/IIbVkg)
 
 
 **Servicios gratuitos de alojamiento de _Podcast_**
@@ -24,4 +22,4 @@ Utilizaremos un servicio de alojamiento de podcasts (los tenéis más abajo) que
 Para hacer uso de todos estos servicios, **sólo hay que crear una cuenta de usuario**, es decir, registrarse y comenzar a grabar con el micrófono o subir nuestros ficheros mp3.
 
 
-\[Imagen: [![Licencia de Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/) Esta imagen, cuyo autor es [https://goo.gl/IIbVkg](https://goo.gl/IIbVkg) está bajo una [licencia de Reconocimiento-CompartirIgual 4.0 Internacional de Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/).\]
+

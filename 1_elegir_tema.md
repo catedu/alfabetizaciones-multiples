@@ -1,7 +1,9 @@
 # 1\. Elegir tema
 
 
-### 1\. Elegir tema![elegir](img/pensar.jpg "elegir")
+### 1\. Elegir tema
+
+[![elegir. Licencia Creative Commons 4.0 by-sa](img/pensar.jpg "elegir")](https://goo.gl/vQd8TW)
 
 
 *   [Material Docente del CNICE](http://recursos.cnice.mec.es/media/radio/bloque6/index.html#) para la creación de programas de radio
@@ -15,4 +17,3 @@
 *   [http://www.freesound.org/](http://www.freesound.org/)
 
 
-\[Imagen: [![Licencia de Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/) Esta foto, cuyo autor es [https://goo.gl/vQd8TW](https://goo.gl/vQd8TW) está bajo una [licencia de Reconocimiento-CompartirIgual 4.0 Internacional de Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/).\]

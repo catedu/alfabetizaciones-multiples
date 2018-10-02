@@ -1,7 +1,6 @@
 # Pasos a seguir
 
 
-![Podcast fácil](img/podcast_facil_518.png "Podcast fácil")
+[![Podcast fácil](img/podcast_facil_518.png "Podcast fácil")](http://www.educacontic.es/blog/podcast-facil)
 
 
-\[Fuente: [http://www.educacontic.es/blog/podcast-facil](http://www.educacontic.es/blog/podcast-facil)\]
