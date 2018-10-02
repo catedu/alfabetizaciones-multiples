@@ -7,3 +7,5 @@ Las Rutinas de Pensamiento, fueron desarrolladas por los Investigadores del Proy
 En realidad las Rutinas de Pensamiento se aplican muchas veces en clase, sin embargo el uso sistemático de las mismas es lo que marca la diferencia, ya que son elementos que conducen a los estudiantes a crear una Cultura de Pensamiento dentro y  fuera del aula al incorporarlas en sus actividades diarias de forma intencional.
 
 Las Rutinas de Pensamiento son una provocación continua para justificar, profundizar y cuestionar, así se convierten en un motor de pensamiento, que con el tiempo los estudiantes utilizan de forma natural.
+
+{% youtube %}https://youtu.be/OdXZ0YYoREo{% endyoutube %}

@@ -1,3 +1,3 @@
 # Organizador gráfico
 
-**[Rutina de pensamiento: pienso, me interesa, investigo](//www.slideshare.net/educacionlab/rutina-de-pensamiento-pienso-me-interesa-investigo "Rutina de pensamiento: pienso, me interesa, investigo")** from **[educacionlab](//www.slideshare.net/educacionlab)**
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/J5zS3idHtERWyi" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/educacionlab/rutina-de-pensamiento-pienso-me-interesa-investigo" title="Rutina de pensamiento: pienso, me interesa, investigo" target="_blank">Rutina de pensamiento: pienso, me interesa, investigo</a> </strong> from <strong><a href="https://www.slideshare.net/educacionlab" target="_blank">INTEF</a></strong> </div>

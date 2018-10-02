@@ -1,7 +1,9 @@
 # Elementos del lenguaje sonoro
 
 
-![Efectos sonoros](img/Efectos_sonoros_2.jpg "efectos sonoros")El lenguaje sonoro está conformado por la interacción de 4 sistemas expresivos:
+[![Efectos sonoros. Licencia Creative Commons 4.0 by-sa](img/Efectos_sonoros_2.jpg "efectos sonoros")](https://goo.gl/7uPt9K)
+
+El lenguaje sonoro está conformado por la interacción de 4 sistemas expresivos:
 
 
 1.  El proceso secuencial del **discurso hablado**, basado en **imágenes  acústicas**: los objetos sonoros de la fonética. (**PALABRAS**)
@@ -21,5 +23,3 @@ En cambio si se trata de un espacio informativo, la voz del locutor tendrá prio
 
 [https://dl.dropboxusercontent.com/u/21974847/Informativo.mp3](https://dl.dropboxusercontent.com/u/21974847/Informativo.mp3)
 
-
-\[Imagen: [![Licencia de Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/) Esta foto, cuyo autor es [https://goo.gl/7uPt9K](https://goo.gl/7uPt9K) está bajo una [licencia de Reconocimiento-CompartirIgual 4.0 Internacional de Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/).\]

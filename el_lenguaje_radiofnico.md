@@ -3,7 +3,9 @@
 Sin la existencia de un lenguaje y sin la existencia de un código o conjunto de normas y reglas que den sentido a ese lenguaje, difícilmente podríamos hablar de comunicación, de la misma manera que tampoco sería posible entablarla si no se dispone de un canal que la haga viable, si no se da una situación que la propicie -por mucho que deseemos conversar con alguien, raramente lo podremos hacer si no tenemos interlocutor-, o si no hay mensaje alguno que transmitir.  
   
 
-![radio](img/Radio.jpg "radio")En la radio, al igual que en los otros medios, convergen todas y cada una de las condiciones necesarias para hacer de la comunicación una realidad, ya que, entre otras cosas, tiene un lenguaje y un código específicos de los que se sirven sus profesionales para construir toda esa amalgama de mensajes/sonido que llegan a nuestros oídos a través de los aparatos receptores.   
+[![radio. Licencia Creative Commons 4.0 by](img/Radio.jpg "radio")](https://goo.gl/W5wqey)
+
+En la radio, al igual que en los otros medios, convergen todas y cada una de las condiciones necesarias para hacer de la comunicación una realidad, ya que, entre otras cosas, tiene un lenguaje y un código específicos de los que se sirven sus profesionales para construir toda esa amalgama de mensajes/sonido que llegan a nuestros oídos a través de los aparatos receptores.   
 
   
 De hecho, si ahora sintonizases una emisora de radio te darías cuenta de que constantemente se van sucediendo y alternando voces y músicas, y, en algunos casos, otros sonidos como el cantar de los pájaros en un anuncio sobre un balneario situado en plena naturaleza, o el de un motor y un claxon en un anuncio de coches. Observarías, igualmente, que todo está perfectamente ordenado y que, por ejemplo, una voz aparece cuando ha callado otra, que un fragmento musical que emerge al inicio de un informativo desaparece lentamente, que un locutor presenta una canción mientras suenan, a un volumen más bajo, las primeras frases de la música, y así un largo etcétera.   
@@ -16,4 +18,3 @@ El principal denominador común de los componentes del lenguaje radiofónico es,
 Fuente: [http://recursos.cnice.mec.es/media/radio/bloque2/pag4.html](http://recursos.cnice.mec.es/media/radio/bloque2/pag4.html)[](http://recursos.cnice.mec.es/media/radio/bloque2/pag4.html)
 
 
-\[Imagen: [![Licencia de Creative Commons](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/) Esta foto, cuyo autor es [https://goo.gl/W5wqey](https://goo.gl/W5wqey) está bajo una [licencia de Reconocimiento 4.0 Internacional de Creative Commons](http://creativecommons.org/licenses/by/4.0/).\]

@@ -1,7 +1,9 @@
 # Grabación de audio
 
 
-Dado el formato audible de estas producciones, es indispensable que su lenguaje sea ampliamente expresivo y creativo, y que las palabras, entonaciones, silencios, ruidos y efectos sonoros reemplacen la ausencia de la imagen física y permitan describir, transmitir e informar un suceso, una idea, una sensación, un paisaje, una historia, entre otros.![grabar](img/grabar.jpg "grabar")
+Dado el formato audible de estas producciones, es indispensable que su lenguaje sea ampliamente expresivo y creativo, y que las palabras, entonaciones, silencios, ruidos y efectos sonoros reemplacen la ausencia de la imagen física y permitan describir, transmitir e informar un suceso, una idea, una sensación, un paisaje, una historia, entre otros.
+
+[![grabar. Licencia Creative Commons 4.0 by](img/grabarAudio.jpg "grabar")](https://goo.gl/VGRy9m)
 
 
 Con el fin de que los oyentes puedan percibir y visualizar todo aquello que se expresa a través del formato sonoro, el realizador del producto debe hacer uso de diferentes recursos técnicos y expresivos (efectos de sonido, capturas de ambientes, manipulaciones sonoras, etc.), sin olvidar la importancia de la palabra. Esta es el pilar principal en la mayoría de productos sonoros que pretenden comunicar un mensaje, debido a que gracias a ella se logra mayor efectividad en la recepción.
@@ -13,4 +15,3 @@ Una vez se tengan claros los criterios para una comunicación eficaz por medio d
 Fuente: Lenguaje y formato sonoro. [http://goo.gl/TNmzO1](http://goo.gl/TNmzO1)[](http://goo.gl/TNmzO1)
 
 
-\[Imagen: [![Licencia de Creative Commons](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/) Esta foto, cuyo autor es [https://goo.gl/VGRy9m](https://goo.gl/VGRy9m) está bajo una [licencia de Reconocimiento 4.0 Internacional de Creative Commons](http://creativecommons.org/licenses/by/4.0/).\]

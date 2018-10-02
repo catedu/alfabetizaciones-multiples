@@ -27,14 +27,7 @@ En este sentido, el auge y la rápida expansión de dispositivos móviles como l
 
 Aún así, continúan creándose muchos materiales que mantienen una concepción basada en las publicaciones impresas.
 
-**¿Qué elementos se han de valorar en la selección de una lectura?**
-
-  
-
-![Selección de lecturas](http://cilij.fundaciongsr.com/userfiles/selecciondelecturas.jpg "Selección de lecturas")
-
-
-   
+**¿Qué elementos se han de valorar en la selección de una lectura?**   
   
 Estas y otras preguntas están presentes cuando nos ponemos a valorar una lectura:
 

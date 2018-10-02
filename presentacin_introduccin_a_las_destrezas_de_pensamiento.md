@@ -1,3 +1,3 @@
 # Presentación: Introducción a las Destrezas de Pensamiento
 
-[Introducción a las destrezas de pensamiento](//www.slideshare.net/carmengf/introduccion-a-las-destrezas-de-pensamiento "Introducción a las destrezas de pensamiento") from [carmengf](//www.slideshare.net/carmengf)
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/FE81gxg4LJTGun" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/carmengf/introduccion-a-las-destrezas-de-pensamiento" title="Introducción a las destrezas de pensamiento" target="_blank">Introducción a las destrezas de pensamiento</a> </strong> from <strong><a href="https://www.slideshare.net/carmengf" target="_blank">carmengf</a></strong> </div>

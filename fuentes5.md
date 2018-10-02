@@ -10,8 +10,8 @@ Bibliografía
 
 Webgrafía
 
-*   Destrezas de pensamiento en <[https://thinkingforthechange.wordpress.com/destrezas-de-pensamiento/>](https://thinkingforthechange.wordpress.com/destrezas-de-pensamiento/>) \[consulta: 21 junio 2015\]
-*   Project Zero <[http://www.pz.harvard.edu/>](http://www.pz.harvard.edu/>) \[consulta: 21 junio 2015\]
-*   Enseñar a pensar, nuevo currículum: Project Zero en Explorador de innovación educativa <[http://innovacioneducativa.fundaciontelefonica.com/blog/2015/01/08/ensenar-a-pensar-nuevo-curriculum-project-zero/>](http://innovacioneducativa.fundaciontelefonica.com/blog/2015/01/08/ensenar-a-pensar-nuevo-curriculum-project-zero/>) Fundación Telefónica \[consulta: 21 de junio 2015\]
-*   SM Conectados <[http://www.smconectados.com/>](http://www.smconectados.com/>) \[consulta: 21 de junio 2015}
-*   Recapacita. Fundación Mapfre <[http://www.recapacita.fundacionmapfre.org/>](http://www.recapacita.fundacionmapfre.org/>) \[consulta: 21 de junio 2015\]
+*   Destrezas de pensamiento en [https://thinkingforthechange.wordpress.com/destrezas-de-pensamiento/](https://thinkingforthechange.wordpress.com/destrezas-de-pensamiento/) \[consulta: 21 junio 2015\]
+*   Project Zero [http://www.pz.harvard.edu/](http://www.pz.harvard.edu/) \[consulta: 21 junio 2015\]
+*   Enseñar a pensar, nuevo currículum: Project Zero en Explorador de innovación educativa [http://innovacioneducativa.fundaciontelefonica.com/blog/2015/01/08/ensenar-a-pensar-nuevo-curriculum-project-zero/](http://innovacioneducativa.fundaciontelefonica.com/blog/2015/01/08/ensenar-a-pensar-nuevo-curriculum-project-zero/) Fundación Telefónica \[consulta: 21 de junio 2015\]
+*   SM Conectados [http://www.smconectados.com/](http://www.smconectados.com/) \[consulta: 21 de junio 2015}
+*   Recapacita. Fundación Mapfre [http://www.recapacita.fundacionmapfre.org/](http://www.recapacita.fundacionmapfre.org/) \[consulta: 21 de junio 2015\]

@@ -4,7 +4,9 @@ La palabra, la voz de alguien que nos cuenta algo, es ya suficiente para encende
 
 *   **Escribir de una forma clara y concisa**. Usar frases simples, con una estructura básica: sujeto – verbo – predicado. Huir de las oraciones subordinadas y convertirlas en dos simples.
 
-*   **Vocalizar**. Las primeras veces que nos pongamos ante un micrófono siempre nos va a dar vergüenza, pero debemos intentar no correr y tragarnos las sílabas. Todo lo contrario, hay que pronunciarlas claramente, ya que el oyente no dispone ni de nuestros gestos, ni de nuestras manos, para ayudarse a entender en mensaje. Un buen ejercicio es leer un texto mordiendo un lápiz, lo que dificulta la movilidad de la lengua, y luego repetir la lectura, esta vez sin obstáculo.![radio](img/Album_personal_programa_radio.jpg "radio")
+*   **Vocalizar**. Las primeras veces que nos pongamos ante un micrófono siempre nos va a dar vergüenza, pero debemos intentar no correr y tragarnos las sílabas. Todo lo contrario, hay que pronunciarlas claramente, ya que el oyente no dispone ni de nuestros gestos, ni de nuestras manos, para ayudarse a entender en mensaje. Un buen ejercicio es leer un texto mordiendo un lápiz, lo que dificulta la movilidad de la lengua, y luego repetir la lectura, esta vez sin obstáculo.
+    
+  [![radio. Licencia Creative Commons 4.0 by-sa](img/Album_personal_programa_radio.jpg "radio")](https://commons.wikimedia.org/wiki/File:Album_personal_programa_radio.jpg)
 
 *   **Entonar**. Hay que respetar cada signo de puntuación. Los puntos y las comas nos ayudarán a respirar y también a resolver las frases de forma adecuada. Muchas veces, incluso en medios nacionales, oiremos a locutores que resuelven cada dos o tres frases, bajando o subiendo el tono: es lo que se denomina _cantinelas. _Las podemos evitar, intentando leer un texto como si fuéramos extranjeros; franceses, británicos… y luego, leyéndolo sin ningún acento.
 *   **No correr / Ni dormirse**. El ritmo. Cada información o cada programa puede tener un ritmo diferente –no hay más que oír a los locutores de deportes, como van de rápidos-, pero lo cierto es que ni hay que ir tan rápido que no se nos entienda, ni languidecer hasta aburrir.
@@ -12,5 +14,3 @@ La palabra, la voz de alguien que nos cuenta algo, es ya suficiente para encende
 *   Generalmente, **no improvisar**. Y si se hace,  siempre se debe dominar el tema que se trata, de manera que lo manejemos con seguridad.
 
 Fuente: El lenguaje sonoro: recursos y planos sonoros. [http://cefire.edu.gva.es/pluginfile.php/194575/mod_resource/content/0/contenidos/108/index.html](http://cefire.edu.gva.es/pluginfile.php/194575/mod_resource/content/0/contenidos/108/index.html)[](http://cefire.edu.gva.es/pluginfile.php/194575/mod_resource/content/0/contenidos/108/index.html)
-
-\[Imagen: [https://commons.wikimedia.org/wiki/File:Album\_personal\_programa_radio.jpg](https://commons.wikimedia.org/wiki/File:Album_personal_programa_radio.jpg) This file is licensed under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons "w:en:Creative Commons")[Attribution-Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en) license.\]

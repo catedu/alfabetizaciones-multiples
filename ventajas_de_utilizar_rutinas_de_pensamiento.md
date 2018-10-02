@@ -7,3 +7,5 @@ Lisa Verkerk que ha desarrollado varias de estas Rutinas dentro del proyecto “
 *   Son estructuras con las que los alumnos inician, discuten, exploran documentos y gestionan su pensamiento, a la vez que descubren modelos de conducta que les permiten utilizar la mente para generar pensamientos, razonamientos y reflexiones.
 
 Las Rutinas de Pensamiento son modelos de pensamiento que se utilizan repetidas veces y se integran con mucha facilidad en el aprendizaje.
+
+{% youtube %}https://youtu.be/oBk0V2octvU{% endyoutube %}

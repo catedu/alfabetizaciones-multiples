@@ -47,7 +47,6 @@
     * [Filtros](filtros.md)
   * [Videoteca](videoteca.md)
   * [Fuentes](fuentes2.md)
--->
 
 ## 3. Cultura de Pensamiento
 
@@ -75,8 +74,8 @@
   * [Metacognición](metacognicin.md)
   * [Fuentes](fuentes5.md)
 
-<!--
-## ALFABETIZAMULTIBLES: Destrezas de Pensamiento.
+
+## 4. Destrezas de Pensamiento.
 
 * [Destreza de pensamiento](index6.md)
   * [Introducción a las Destrezas de Pensamiento](introduccin_a_las_destrezas_de_pensamiento.md)
@@ -90,7 +89,8 @@
   * [Rutina: Veo-Pienso-Me pregunto](rutina_veopiensome_pregunto.md)
     * [Organizador gráfico](organizador_grfico3.md)
 
-## ALFABETIZAMULTIBLES: Leer es...
+
+## 5. Leer es...
 
 * [Leer es: compartir, conectar y elegir](index7.md)
   * [Elegir](elegir.md)
@@ -100,7 +100,8 @@
   * [Recomendaciones de lectura en diversos formatos](recomendaciones_de_lectura_en_diversos_formatos.md)
   * [Experiencias sobre lectura, literatura o investigación](experiencias_sobre_lectura_literatura_o_investigacin.md)
 
-## ALFABETIZAMULTIBLES: Lenguaje sonoro
+
+## 6. Lenguaje sonoro
 
 * [Lenguaje sonoro](index8.md)
   * [Introducción](introduccin9.md)
@@ -118,7 +119,8 @@
     * [Mapa conceptual](mapa_conceptual.md)
   * [Fuentes](fuentes10.md)
 
-## ALFABETIZAMULTIBLES: Lenguaje radiofónico
+
+## 7. Lenguaje radiofónico
 
 * [Lenguaje radiofónico](index11.md)
   * [El lenguaje radiofónico](el_lenguaje_radiofnico.md)
@@ -131,8 +133,9 @@
     * [Generos y formatos](generos_y_formatos.md)
     * [Género argumental](gnero_argumental.md)
   * [Fuentes](fuentes13.md)
+-->
 
-## ALFABETIZAMULTIBLES: Podcast
+## 8. Podcast
 
 * [Podcast](index14.md)
   * [¿Qué son los podcast?](qu_son_los_podcast.md)
@@ -150,6 +153,7 @@
     * [Infografía. Souncloud](infografa_souncloud.md)
   * [Fuentes](fuentes15.md)
 
+<!--
 ## ALFABETIZAMULTIBLES: Lenguaje audiovisual
 
 * [Lenguaje audiovisual](index16.md)
