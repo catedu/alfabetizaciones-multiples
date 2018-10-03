@@ -1,7 +1,5 @@
 # Infografía. Souncloud
 
 
-![Soundcloud](img/podcasts_soundcloud.png "Souncloud")
+[![Soundcloud](img/podcasts_soundcloud.png "Souncloud")](http://www.educacontic.es/blog/podcasts-con-soundcloud)
 
-
-\[Fuente: [http://www.educacontic.es/blog/podcasts-con-soundcloud](http://www.educacontic.es/blog/podcasts-con-soundcloud)\]

@@ -133,7 +133,7 @@
     * [Generos y formatos](generos_y_formatos.md)
     * [Género argumental](gnero_argumental.md)
   * [Fuentes](fuentes13.md)
--->
+
 
 ## 8. Podcast
 
@@ -152,9 +152,9 @@
     * [Soundcloud](soundcloud.md)
     * [Infografía. Souncloud](infografa_souncloud.md)
   * [Fuentes](fuentes15.md)
+-->
 
-<!--
-## ALFABETIZAMULTIBLES: Lenguaje audiovisual
+## 9. Lenguaje audiovisual
 
 * [Lenguaje audiovisual](index16.md)
   * [La imagen en movimiento](la_imagen_en_movimiento.md)
@@ -178,6 +178,7 @@
     * [Color y timbre](color_y_timbre.md)
   * [Fuentes](fuentes17.md)
 
+<!--
 ## ALFABETIZAMULTIBLES: El lenguaje publicitario
 
 * [Lenguaje publicitario](index18.md)
