@@ -6,7 +6,7 @@ Distintas organizaciones tratan de conseguir dinero para ayudar a los pobres, lo
 
 Las Organizaciones no lucrativas realizan actividades de marketing para conseguir sus objetivos que pueden ser muy diversos.
 
-\[Hazte socio de ACNUR Comité español. Url: h[ttps://www.youtube.com/watch?v=m1SXo7rIMaQ](https://www.youtube.com/watch?v=m1SXo7rIMaQ)\]
+{% youtube %}https://youtu.be/YyZKvPIjHqE{% endyoutube %}
 
 La captación de personal o voluntarios, la difusión de sus ideas, la defensa de unos ideales, la obtención de recursos por parte de las organizaciones puede requerir la realización de publicidad.
 

@@ -1,6 +1,6 @@
 # La publicidad subliminal
 
-\[La publicidad subliminal. Url:[https://www.youtube.com/watch?v=fFFQTJBM778](https://www.youtube.com/watch?v=fFFQTJBM778)\]
+{% youtube %}https://youtu.be/fFFQTJBM778{% endyoutube %}
 
 **Objetivos de la publicidad subliminal:** 
 

@@ -2,7 +2,6 @@
 
 * [Introducción](README.md)
 
-<!--
 ## 1. Educación ayer y hoy
 
 * [Educación ayer y hoy](index22.md)
@@ -74,7 +73,6 @@
   * [Metacognición](metacognicin.md)
   * [Fuentes](fuentes5.md)
 
-
 ## 4. Destrezas de Pensamiento.
 
 * [Destreza de pensamiento](index6.md)
@@ -89,7 +87,6 @@
   * [Rutina: Veo-Pienso-Me pregunto](rutina_veopiensome_pregunto.md)
     * [Organizador gráfico](organizador_grfico3.md)
 
-
 ## 5. Leer es...
 
 * [Leer es: compartir, conectar y elegir](index7.md)
@@ -99,7 +96,6 @@
   * [Comunicación lingüística](comunicacin_lingstica.md)
   * [Recomendaciones de lectura en diversos formatos](recomendaciones_de_lectura_en_diversos_formatos.md)
   * [Experiencias sobre lectura, literatura o investigación](experiencias_sobre_lectura_literatura_o_investigacin.md)
-
 
 ## 6. Lenguaje sonoro
 
@@ -119,7 +115,6 @@
     * [Mapa conceptual](mapa_conceptual.md)
   * [Fuentes](fuentes10.md)
 
-
 ## 7. Lenguaje radiofónico
 
 * [Lenguaje radiofónico](index11.md)
@@ -133,7 +128,6 @@
     * [Generos y formatos](generos_y_formatos.md)
     * [Género argumental](gnero_argumental.md)
   * [Fuentes](fuentes13.md)
-
 
 ## 8. Podcast
 
@@ -152,7 +146,6 @@
     * [Soundcloud](soundcloud.md)
     * [Infografía. Souncloud](infografa_souncloud.md)
   * [Fuentes](fuentes15.md)
--->
 
 ## 9. Lenguaje audiovisual
 
@@ -178,8 +171,7 @@
     * [Color y timbre](color_y_timbre.md)
   * [Fuentes](fuentes17.md)
 
-<!--
-## ALFABETIZAMULTIBLES: El lenguaje publicitario
+## 10. El lenguaje publicitario
 
 * [Lenguaje publicitario](index18.md)
   * [Introducción](introduccin19.md)
@@ -211,8 +203,7 @@
   * [La publicidad subliminal](la_publicidad_subliminal.md)
   * [Utilización de la mujer en la publicidad](utilizacin_de_la_mujer_en_la_publicidad.md)
   * [Fuentes](fuentes20.md)
--->
+
 ---
 
 * [Créditos](crditos-buenos.md)
-

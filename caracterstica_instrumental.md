@@ -4,8 +4,4 @@ Se refiere tanto a la cantidad como a la cualidad de los instrumentos que interv
 
 La utilización de un instrumento solo (o solista con un acompañamiento mínimo) suele remitir a la soledad del personaje.
 
-[https://dl.dropboxusercontent.com/u/21974847/Instrumento%20solo%20y%20soledad.mp4](https://dl.dropboxusercontent.com/u/21974847/Instrumento%20solo%20y%20soledad.mp4)
-
-\[Instrumento solo y soledad del personaje en The Portrait of a Lady. Url: [http://sonido.blogs.upv.es/musica/instrumento-solo-y-soledad/](http://sonido.blogs.upv.es/musica/instrumento-solo-y-soledad/)\]
-
-\[V DE VENDETTA – Obertura 1812 (P. I. Tchaikovsky). Url: [https://www.youtube.com/watch?v=D9gYhnUKehU](https://www.youtube.com/watch?v=D9gYhnUKehU)\]
+{% youtube %}https://www.youtube.com/watch?v=D9gYhnUKehU{% endyoutube %}

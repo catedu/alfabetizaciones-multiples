@@ -8,4 +8,4 @@ Si nuestro producto tiene una diferencia que supone una ventaja sobre los compet
 
 Por ejemplo, los productos  Dove comunican como beneficio clave “que cuida la piel”. Para demostrarlo afirma que  se le añade una cuarta parte de crema para la piel. Un magnífico anuncio del maestro David Ogilvy mostraba una fotografía con la crema que se vierte en el jabón. En el siguiente ejemplo se muestra a Dove como mucho más que un simple desodorante gracias a la incorporación de un cuarto de crema hidratante.
 
-\[Protección eficaz. Axilas bonitas. [Url: https://www.youtube.com/watch?v=hgSCEOGIJLM](https://www.youtube.com/watch?v=hgSCEOGIJLM)\]
+{% youtube %}https://www.youtube.com/watch?v=hgSCEOGIJLM{% endyoutube %}

@@ -8,3 +8,5 @@ El lenguaje publicitario va a desempeñar las funciones que le son propias al re
 *   Función Referencial
 *   Función Emotiva
 *   Función Metalingüística
+
+{% youtube %}https://youtu.be/QbvcCTTkoa8{% endyoutube %}

@@ -8,7 +8,6 @@ Los anuncios en televisión tienen que adaptarse a las características visuales
 *   **Estilo de vida**. Una gran variedad de productos como la cerveza, el tabaco, los perfumes, los vestidos no suelen venderse por sus características técnicas sino por facilitar al consumidor un cierto estilo de vida. Por ejemplo normalmente los perfumes no se anuncian diciendo este huele mejor, sino “este perfume es para ti que eres joven, impulsivo, urbano y extrovertido” etc. Los anuncios de cerveza suelen vender el beneficio de las relaciones sociales y como supuesto medio de integración en un grupo. Eso sin olvidar como para aparentar un cierto tipo de vida necesitas tal marca (de ropa, coche, perfumes etc.). 
 
 
-![tv](img/anuncios-tv-spot-p.png "tv")
+[![tv](img/anuncios-tv-spot-p.png "tv")](http://defharo.com/spotstv/anuncios-tv-spot-p.png)
 
 
-\[Imagen: [http://defharo.com/spotstv/anuncios-tv-spot-p.png](http://defharo.com/spotstv/anuncios-tv-spot-p.png)\]

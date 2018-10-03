@@ -7,12 +7,7 @@ Estas agencias ofrecen muchos de los servicios necesarios para desarrollar las c
 La [Asociación Española de Agencias de Publicidad](http://www.aeap.es/) agrupa a la mayoría de las Agencias importantes.
 
 
-![Agencias](img/Agencia_publicidad.jpg "Agencias")
-
-
-
-\[Imagen: [![Licencia de Creative Commons](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/) Esta obra cuyo autor es [https://goo.gl/Mfmukl](https://goo.gl/Mfmukl) está bajo una [licencia de Reconocimiento 4.0 Internacional de Creative Commons](http://creativecommons.org/licenses/by/4.0/).\]
-
+[![Agencias. Licencia Creative Commons 4.0 by](img/Agencia_publicidad.jpg "Agencias")](https://goo.gl/Mfmukl)
 
 Agencias de **Publicidad Especializadas**. Algunas Agencias de Publicidad se especializan en un tipo de Medio. Por ejemplo agencias especializadas en Internet o en la publicidad en vallas y medios exteriores. Otras empresas se especializan en una parte del proceso o trabajo publicitario.
 

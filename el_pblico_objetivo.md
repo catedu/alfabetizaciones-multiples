@@ -7,7 +7,7 @@ Una eficaz gestión publicitaria requiere decidir a quienes enviamos los mensaje
 Existe una amplia variedad de posibles grupos poblacionales a los que mandar nuestro mensaje. Desde una perspectiva genérica nuestra publicidad puede encaminarse a uno o más de los siguientes grupos:
 
 
-![público](img/Publico_objetivo.jpg "Público")
+[![público. Licencia Creative Commons 4.0 by-nc-nd](img/Publico_objetivo.jpg "Público")](https://goo.gl/08Zuar)
 
 
 *   **Los Consumidores Potenciales**. Aquellos que no consumen nuestro producto pero pueden pasar a ser consumidores.
@@ -21,5 +21,3 @@ Existe una amplia variedad de posibles grupos poblacionales a los que mandar nue
 *   **Los Prescriptores**. Los Prescriptores no consumen ni pagan el producto pero pueden ser muy importantes. Por ejemplo, los médicos que recetan diferentes marcas de medicinas suelen ser fundamentales para el éxito de las empresas farmacéuticas.
     
 
-
-\[Imagen: [![Licencia de Creative Commons](https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/) Esta obra cuyo autor es [https://goo.gl/08Zuar](https://goo.gl/08Zuar) está bajo una [licencia de Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional de Creative Commons](http://creativecommons.org/licenses/by-nc-nd/4.0/).\]

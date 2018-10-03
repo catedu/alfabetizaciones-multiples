@@ -6,10 +6,6 @@ Existe una relación concreta en la práctica audiovisual entre color de imagen 
 
 En una escena con carga simbólica, el personaje de Sozaburo aparece con tres colores diferentes que el compositor [Ryûichi Sakamoto](http://www.imdb.com/name/nm0757098/?ref_=ttfc_fc_cr11) representa musicalmente (con sonidos armónicos o inarmónicos, agudos o medios):
 
-[https://dl.dropboxusercontent.com/u/21974847/Color.mp4](https://dl.dropboxusercontent.com/u/21974847/Color.mp4)
-
-\[Url: [http://sonido.blogs.upv.es/musica/color/](http://sonido.blogs.upv.es/musica/color/)\]
-
-\[Escena de la ducha en Psicosis de Alfred Hitchcock, Url: [https://www.youtube.com/watch?v=zAnOpXzVfBI](https://www.youtube.com/watch?v=zAnOpXzVfBI)\]
+{% youtube %}https://www.youtube.com/watch?v=zAnOpXzVfBI{% endyoutube %}
 
 Aunque Hitchcock concibió la escena original sin música, el compositor Bernard Hermann insistió en introducir el sonido de unos violines chirriantes, para intensificar las imágenes. Hoy en día, la melodía de los violines durante la escena de la ducha es uno de los detalles más recordados de esta cinta.

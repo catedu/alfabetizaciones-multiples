@@ -18,6 +18,6 @@ La estrategia creativa debe adaptarse al plan de marketing de la empresa. El men
 
 Y es preciso que el mensaje se recuerde. Debe ser memorable y quedar grabado en la mente del consumidor. 
 
-\[Publicidad española memorable Nº 65: Atún Calvo, claro (1981). Url: [https://www.youtube.com/watch?v=YxN6O2230sU](https://www.youtube.com/watch?v=YxN6O2230sU)\]
+{% youtube %}https://www.youtube.com/watch?v=YxN6O2230sU{% endyoutube %}
 
 Por ejemplo la marca Calvo paso de ser desconocida a líder del mercado de latas de atún mediante unos anuncios en los que dos actores con poco pelo repetían muchas veces "Atún Claro Calvo".
